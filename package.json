@@ -1,0 +1,37 @@
+{
+  "name": "@ds-javascript/sort",
+  "version": "1.0.0",
+  "description": "Sorting algorithms in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensourcedj217/JSSort.git"
+  },
+   "keywords": [
+    "javascript ds",
+	"javascript data structure",
+	"data structure",
+    "javascript sort",
+    "es6 sort",
+    "bubble sort js",
+    "selection sort js",
+    "insertion sort js",
+    "merge sort js",
+	"quick sort js",
+	"bubble sort es6",
+    "selection sort es6",
+    "insertion sort es6",
+    "merge sort es6",
+	"quick sort es6",
+    "javascript data structure"
+  ],
+  "author": "Dhananjay Chaudhari <opensourcedj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opensourcedj217/JSSort/issues"
+  },
+  "homepage": "https://github.com/opensourcedj217/JSSort#readme"
+}
